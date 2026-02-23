@@ -1,0 +1,31 @@
+# FastAPI Framework
+fastapi
+uvicorn
+
+# Data validation
+pydantic
+
+# LangChain
+langchain
+langchain-community
+langchain-openai
+
+# OpenAI
+openai
+
+# Vector Database
+pinecone
+
+# For Embeddings
+sentence-transformers
+transformers
+torch
+
+# Document parsing
+pypdf
+python-docx
+unstructured
+
+# Utilities
+python-dotenv
+tqdm
